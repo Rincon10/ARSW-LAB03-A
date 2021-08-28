@@ -2,6 +2,13 @@
 # Arquitecturas de Software - ARSW
 ### Taller – Principio de Inversión de dependencias, Contenedores Livianos e Inyección de dependencias.
 
+### Integrantes:
+
+|     Nombre    |     Git         |
+|--------------|------------- | 
+| Camilo Rincón|[Rincon10](https://github.com/Rincon10 )  |
+|Galeano Garzón |[Ersocaut](https://github.com/Ersocaut)   |
+
 ### Compilando el proyecto:
 Para compilar el proyecto usaremos el siguiente comando
 ```
@@ -120,13 +127,6 @@ public class GrammarChecker {
 <br>
 <img src="img/SpanishExec.png" alt="SpanishExec" >
 <br>
-
-### Integrantes:
-
-|     Nombre    |     Git         |
-|--------------|------------- | 
-| Camilo Rincón|[Rincon10](https://github.com/Rincon10 )  |
-|Galeano Garzón |[Ersocaut](https://github.com/Ersocaut)   |
 
 
 ### Referencias 
